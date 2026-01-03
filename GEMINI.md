@@ -1,4 +1,4 @@
-# Antigravity Tresor - Hızlı Başlangıç 🚀
+# Antigravity Tresor - Gemini için Hızlı Başlangıç 🚀
 
 Antigravity IDE için profesyonel geliştirme araçlarını kullanmaya başlamak için bu rehberi takip edin.
 
